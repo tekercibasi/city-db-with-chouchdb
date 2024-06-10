@@ -1,1 +1,1 @@
-# city-db-with-chouchdb
+im root verzeichnis einmal ``` npm install ``` ausführen und anschließend mit ```node ./stadt-projekt/server.js``` den Server starten und auf ```localhost:3000``` im Browser die Applikation starten.
